@@ -1,0 +1,30 @@
+{
+  "name": "react-native-simple-action-sheet-ios",
+  "version": "0.0.1",
+  "description": "Handy wrapper for ActionSheetIOS",
+  "main": "index.ios.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doochik/SimpleActionSheetIOS.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "ios",
+    "ActionSheetIOS"
+  ],
+  "author": {
+    "name" : "Aleksei Androsov",
+    "email" : "doochik@ya.ru",
+    "url": "https://github.com/doochik"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doochik/SimpleActionSheetIOS/issues"
+  },
+  "homepage": "https://github.com/doochik/SimpleActionSheetIOS#readme"
+}
