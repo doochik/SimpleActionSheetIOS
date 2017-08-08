@@ -1,3 +1,5 @@
+[![NPM version](https://badge.fury.io/js/react-native-simple-action-sheet-ios.svg)](http://badge.fury.io/js/react-native-simple-action-sheet-ios)
+
 # SimpleActionSheetIOS
 Handy wrapper for react-native ActionSheetIOS.
 
